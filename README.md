@@ -8,8 +8,6 @@ A code searching tool similar to `ack`, with a focus on speed.
 
 [![#ag on Freenode](https://img.shields.io/badge/Freenode-%23ag-brightgreen.svg)](https://webchat.freenode.net/?channels=ag)
 
-Do you know C? Want to improve ag? [I invite you to pair with me](http://geoff.greer.fm/2014/10/13/help-me-get-to-ag-10/).
-
 
 ## What's so great about Ag?
 
